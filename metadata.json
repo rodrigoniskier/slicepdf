@@ -1,0 +1,6 @@
+{
+  "name": "PDF Chapter Splitter",
+  "description": "Upload a PDF, identify chapters via Summary or OCR, and download a ZIP of separated chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
